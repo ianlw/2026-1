@@ -1,0 +1,26 @@
+{
+  "metricas_composicion": {
+    "longitud_promedio_raices": 8.5,
+    "longitud_promedio_sufijos": 0.0,
+    "longitud_promedio_palabras": 8.5,
+    "sufijos_promedio_por_palabra": 0.0
+  },
+  "distribucion_estructuras": {
+    "estructura_raiz_unica": 15096,
+    "estructura_raiz_un_sufijo": 0,
+    "estructuras_raiz_multiples_sufijos": 0,
+    "palabras_compuestas": 0
+  },
+  "correlaciones_gramaticales": {
+    "verbos": {
+      "sufijos_promedio": 0.0,
+      "longitud_promedio": 8.9,
+      "sufijos_mas_frecuentes": []
+    },
+    "sustantivos": {
+      "sufijos_promedio": 0.0,
+      "longitud_promedio": 8.0,
+      "sufijos_mas_frecuentes": []
+    }
+  }
+}
